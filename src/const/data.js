@@ -1,0 +1,1 @@
+export const todo=["shopping", "visit mom", "home work"]
